@@ -14,7 +14,6 @@ FinTech engineering student at ESILV in Paris (class of 2027), working on on-cha
 | **[AgentFi](https://github.com/BuzzBallz/agentfi)**<br>[Live](https://agentfi-frontend.vercel.app) · [Devfolio](https://devfolio.co/projects/agentfi-3428) | ETHDenver 2026 | **2nd place**, 0G Labs Best DeFAI<br>**3rd place**, ADI Foundation<br>$2.4k in total | Multi-chain marketplace for autonomous AI agents: iNFTs (ERC-7857) on 0G, x402 agent-to-agent payments, micropayments on ADI Chain and execution proofs on Hedera. |
 | **[FlashScope](https://github.com/BuzzBallz/flashscope)**<br>[Live](https://monad-eth-denver.vercel.app) | Monad Blitz, ETHDenver 2026<br>8-hour hackathon | | Real-time flash loan arbitrage dashboard on Monad testnet: a viem bot scans 6 DEXs, detects spreads and executes 3-pool flash-loan arbitrage, streamed live to a React dashboard. |
 
-All three built with [Alexandre Lemiere](https://github.com/frytegg).
 
 ## Stack
 
