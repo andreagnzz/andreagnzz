@@ -15,6 +15,10 @@ Solvency oracle for closed-ended XRPL lending vaults. A vault's first recognised
 Multi-chain marketplace for autonomous AI agents: iNFTs (ERC-7857) on 0G, x402 agent-to-agent payments, micropayments on ADI Chain and execution proofs on Hedera.\
 [Repository](https://github.com/BuzzBallz/agentfi) · [Live](https://agentfi-frontend.vercel.app) · [Devfolio](https://devfolio.co/projects/agentfi-3428) · built with [Alexandre Lemiere](https://github.com/frytegg)
 
+**FlashScope** · Monad Blitz, ETHDenver 2026 (8-hour hackathon)\
+Real-time flash loan arbitrage dashboard on Monad testnet: a TypeScript and viem bot scans 6 DEXs, detects spreads and executes 3-pool flash-loan arbitrage through Solidity contracts, streamed live to a React dashboard.\
+[Repository](https://github.com/BuzzBallz/flashscope) · [Live](https://monad-eth-denver.vercel.app) · built with [Alexandre Lemiere](https://github.com/frytegg)
+
 ## Stack
 
 - **Languages:** TypeScript, Rust (Tokio), Python, Solidity
