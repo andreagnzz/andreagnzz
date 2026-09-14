@@ -7,7 +7,7 @@ FinTech engineering student at ESILV in Paris (class of 2027), working on on-cha
 
 ## Work
 
-- **Orma**: credit research for locked-up XRPL vaults; the score lives on-ledger and can block capital. [Repo](https://github.com/BuzzBallz/orma) · [Live](https://ormaprotocol.vercel.app)
+- **Orma**: credit research for locked-up XRPL vaults; the score lives on-ledger and can block capital. [Repo](https://github.com/BuzzBallz/orma) · [Live](https://ormaprotocol.vercel.app) · [40 findings](https://github.com/BuzzBallz/orma/blob/main/FINDINGS.md)
 - **AgentFi**: marketplace where autonomous DeFi agents are owned, hired and monetized on-chain. [Repo](https://github.com/BuzzBallz/agentfi) · [Live](https://agentfi-frontend.vercel.app)
 - **FlashScope**: flash-loan arbitrage dashboard on Monad, built in 8 hours at Monad Blitz. [Repo](https://github.com/BuzzBallz/flashscope) · [Live](https://monad-eth-denver.vercel.app)
 
