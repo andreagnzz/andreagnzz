@@ -25,6 +25,6 @@ TypeScript, Python, Rust, Solidity · Vue, Pinia · Vitest, fast-check, Playwrig
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/andrea-gonzalez1/) · [X](https://x.com/0XAndrea_) · [gonzalez.andrea.pro@gmail.com](mailto:gonzalez.andrea.pro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/andreagnzz/) · [X](https://x.com/0XAndrea_) · [gonzalez.andrea.pro@gmail.com](mailto:gonzalez.andrea.pro@gmail.com)
 
 Most of my code lives in [github.com/BuzzBallz](https://github.com/BuzzBallz).
