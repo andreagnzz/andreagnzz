@@ -16,7 +16,8 @@ Open to risk and dev roles in crypto or fintech from 2027, anywhere.
 - **Trade Forecast**: drag the stop on the chart and the Hyperliquid position resizes so the loss at the stop never exceeds your risk, fees and slippage included. One key sends a protected bracket. Property-tested, testnet only. [Repo](https://github.com/andreagnzz/trade-forecast-public) · [Live](https://trade-forecast-pi.vercel.app)
 - **Brume**: negotiated exit for disputed Cardano escrows, without the arbiter. 61 mainnet escrows stuck for a median of 333 days. [Repo](https://github.com/BuzzBallz/Brume) · [Paper (7 pages)](https://github.com/BuzzBallz/Brume/blob/main/paper/PAPER.pdf) · [Site](https://buzzballz.github.io/Brume/)
 - **AgentFi**: marketplace where autonomous DeFi agents are owned, hired and monetized on-chain. [Repo](https://github.com/BuzzBallz/agentfi) · [Live](https://agentfi-frontend.vercel.app)
-- **FlashScope**: flash-loan arbitrage dashboard on Monad, built in 8 hours at Monad Blitz. [Repo](https://github.com/BuzzBallz/flashscope) · [Live](https://monad-eth-denver.vercel.app)
+- **FlashScope**: flash-loan arbitrage dashboard on Monad testnet (simulated pools), built in 8 hours at Monad Blitz. [Repo](https://github.com/BuzzBallz/flashscope) · [Live](https://monad-eth-denver.vercel.app)
+- **CodeTgh**: shares messages, tasks and file claims between the Claude Code sessions of a team, with a self-hosted hub, a CLI and a runner that opens reviewed pull requests. Early, pre-1.0. [Repo](https://github.com/andreagnzz/codetgh)
 
 ## Stack
 
